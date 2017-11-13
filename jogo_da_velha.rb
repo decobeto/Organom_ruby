@@ -12,10 +12,6 @@ def valores
 	@c3 = " "
 end
 
-def tabela 
-	tab = [[@a1, @a2, @a3],[@b1, @b2, @b3],[@c1, @c2, @c3]]
-end
-
 def tabuleiro
 	puts
 	puts "    1   2   3"
@@ -109,7 +105,6 @@ end
  
 def comecar
 	valores	
-	tabela
 	jogo
 end
 comecar	
