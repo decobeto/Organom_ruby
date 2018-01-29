@@ -1,2 +1,3 @@
-# Jogo-da-velha-Tic-tac-toe
-A really simple ruby tic tac toe game
+# Awesome_ruby_games
+
+Alguns jogos simples feitos em ruby 
