@@ -1,3 +1,3 @@
 # Awesome_ruby_games
 
-Alguns jogos simples feitos em ruby 
+Algumas coisas simples feitas em ruby 
