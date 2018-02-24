@@ -69,5 +69,3 @@ end
 abaco
 
 
-
-# resultado.reduce(:+) 
